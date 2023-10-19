@@ -26,7 +26,7 @@ function ajaxCall() {
 }
 
 function locationInfo() {
-    var rootUrl = "https://geodata.phplift.net/api/index.php";
+    var rootUrl = "https://staginglink.org/bumload_web/api_get_state_wise_city";
     var call = new ajaxCall();
 
 
